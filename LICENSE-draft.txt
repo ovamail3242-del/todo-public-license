@@ -1,0 +1,192 @@
+THE TODO PUBLIC LICENSE (TPL)
+Version 1.0 (Draft) – Created by the FIXME Foundation
+
+================================================================================
+PREAMBLE
+================================================================================
+
+This license governs the use, modification, and distribution of software that
+// TODO: finish this sentence
+
+The spirit of this license is to promote open collaboration while
+[PLACEHOLDER: insert inspiring legal language here]
+
+// FIXME: Check if we need a definitions section
+
+
+================================================================================
+TERMS AND CONDITIONS
+================================================================================
+
+1. GRANT OF LICENSE
+
+   Subject to the terms and conditions of this License, each Contributor hereby
+   grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+   // TODO: add more buzzwords
+   license to reproduce, prepare Derivative Works of, publicly display,
+   publicly perform, sublicense, and distribute the Work and such Derivative
+   Works in Source or Object form.
+   
+   /* NOTE TO SELF: Is "Object form" still the right term? Check other licenses */
+
+
+2. REDISTRIBUTION
+
+   You may reproduce and distribute copies of the Work or Derivative Works
+   thereof in any medium, with or without modifications, provided that You meet
+   the following conditions:
+   
+   a) // TODO: First condition goes here
+   
+   b) You must retain all copyright, patent, trademark, and attribution notices
+      [incomplete - needs legal review]
+   
+   c) // FIXME: This section needs work
+   
+   d) If the Work includes a "NOTICE" file as part of its distribution, then
+      any Derivative Works that You distribute must include a readable copy of
+      // TODO: complete this requirement
+   
+   // XXX: Do we need more conditions? Ask Sarah from legal
+
+
+3. SUBMISSION OF CONTRIBUTIONS
+
+   Unless You explicitly state otherwise, any Contribution intentionally
+   submitted for inclusion in the Work by You to the Licensor shall be under
+   the terms and conditions of this License, without any
+   /* TODO: Research what goes here - something about additional terms? */
+   
+   // HACK: Placeholder text below - replace before v1.0
+   Notwithstanding the above, nothing herein shall supersede or modify [TBD]
+
+
+4. TRADEMARKS
+
+   This License does not grant permission to use the trade names, trademarks,
+   service marks, or product names of the Licensor, except
+   // TODO: Figure out the exceptions
+   
+   // NOTE: Legal says this section is important - prioritize!
+
+
+5. DISCLAIMER OF WARRANTY
+
+   UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, LICENSOR PROVIDES
+   THE WORK (AND EACH CONTRIBUTOR PROVIDES ITS CONTRIBUTIONS) ON AN "AS IS"
+   BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+   IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+   // FIXME: List all the warranty types we're disclaiming
+   
+   /* XXX: ALL CAPS section - check if we're doing this right */
+
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE),
+   CONTRACT, OR OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW
+   // TODO: This is important - finish before release!
+   
+   [DRAFT NOTE: Standard boilerplate goes here - copy from Apache/MIT?]
+
+
+7. ACCEPTING WARRANTY OR ADDITIONAL LIABILITY
+
+   // TODO: Write this entire section
+   // Related to section 5 somehow?
+   // Check with legal team
+
+
+8. PATENT PROVISIONS
+
+   // FIXME: CRITICAL - This section is completely missing
+   // See: Apache 2.0 section 3 for reference
+   // Deadline: Before v1.0 release
+   
+   /* Contributor patent license grants go here */
+
+
+9. COPYLEFT REQUIREMENTS
+
+   // XXX: Do we even want copyleft? Team needs to decide
+   // Options:
+   //   - Strong copyleft (GPL-style)
+   //   - Weak copyleft (LGPL-style)  
+   //   - No copyleft (permissive)
+   // TODO: Schedule meeting to discuss
+
+
+10. COMPATIBILITY WITH OTHER LICENSES
+
+    This License is intended to be compatible with
+    [List of licenses TBD]
+    
+    // NOTE: This might be legally complex - needs research
+    // HACK: Leaving vague for now
+
+
+================================================================================
+APPENDIX: How to Apply This License
+================================================================================
+
+To apply the TODO Public License to your work, attach the following boilerplate
+notice, with the fields enclosed by brackets "[]" replaced with your own
+identifying information. (Don't include the brackets!)
+
+    Copyright [yyyy] [name of copyright owner]
+    
+    Licensed under the TODO Public License, Version 1.0
+    // FIXME: Add URL to license text when we have a website
+    
+    You may obtain a copy of the License at
+    [TODO: Insert URL here]
+
+
+================================================================================
+KNOWN ISSUES
+================================================================================
+
+// FIXME: Section 8 completely missing
+// TODO: Legal review needed for sections 5 and 6
+// XXX: Decide on copyleft approach (section 9)
+// HACK: Section 3 uses placeholder text
+// NOTE: Get final approval from FIXME Foundation board
+// TODO: Proofread everything
+// BUG: Version number might conflict with other TPL versions (if any exist?)
+// OPTIMIZE: Make this sound more professional
+// REFACTOR: Reorganize sections for better flow
+// DEPRECATED: Remove this notice when actually finished
+
+
+================================================================================
+CONTRIBUTORS
+================================================================================
+
+// TODO: Set up CONTRIBUTORS.md file
+// For now: "Created by developers who never quite finish their licenses"
+
+
+================================================================================
+CHANGELOG
+================================================================================
+
+Version 1.0 (Draft) - [Current Date]
+- Initial draft
+- Most sections incomplete
+- Needs legal review
+// TODO: Maintain this properly going forward
+
+
+================================================================================
+END OF LICENSE
+================================================================================
+
+/* 
+ * Meta note: This license itself is licensed under... 
+ * TODO: Figure out licensing for a license
+ * This is getting too recursive. Ship it anyway.
+ */
+
+// FIXME: Add proper footer
+// XXX: Is this legally binding? Probably not yet.
+// TODO: Actually finish this before anyone uses it
